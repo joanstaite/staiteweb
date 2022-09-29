@@ -653,6 +653,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
   font-size: 28px;
   font-weight: 700;
+  margin-top: 30px;
 }
 
 #call-to-action .cta-text {
